@@ -3,6 +3,6 @@
 * [A webpage in Flask](https://github.com/erulla/Flask-Webpage/)
 * [A 2-d Side-Scroller game using P5.js](https://minigame-ten.vercel.app/)
 * [A webpage hosted on AWS as part of the Cloud Resume Challenge](https://github.com/erulla/aws-cloud-resume-challenge)
-## Self-initited learn-to-code resources:
+## Self-initiated learn-to-code resources:
 * [University of Helsinki's Java Programming](https://github.com/erulla/mooc-java-programming-i)
 * [University of Helsinki's Introduction to Programming (Python)](https://github.com/erulla/Introduction-to-Programming-)
