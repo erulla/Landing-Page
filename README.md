@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! Have a look at:
 ## My completed projects:
-* [A webpage hosted on AWS as part of the Cloud Resume Challenge](https://github.com/erulla/aws-cloud-resume-challenge)
+* ⭐[A webpage hosted on AWS as part of the Cloud Resume Challenge](https://github.com/erulla/aws-cloud-resume-challenge)⭐
 * [A webpage in Flask](https://github.com/erulla/Flask-Webpage/)
 * [A 2d Side-Scroller game using P5.js](https://github.com/erulla/2d-sidescroller)
 
